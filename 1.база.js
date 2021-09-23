@@ -17,11 +17,10 @@
 // const lastName = prompt('Введите фамилию')
 // alert( firstName + '' + lastName)
 
-// 3.операторы
+// 3.Операторы
 
 // let correntYear = 2021
 // const birthYear = 1988
-//
 // const age = correntYear - birthYear
 //  console.log(age)
 
