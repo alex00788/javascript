@@ -1,29 +1,28 @@
 // 1 переменые
 
 // alert(1)
-// const firstName = 'Vladlen'
-// // const age = 33
+// const firstName = 'alex'
+// const age = 33
 // const isProgrammer = true
 //
 // const _ = 'private'
 // const  $ = 'some value'
 // const withNum5 = '5'
+// console.log(firstName,!isProgrammer, age)
 
 //  2 . мутирование
 
 // console.log( 'имя человека: ' + firstName + ' а возраст человека: ' +age)
 // prompt('введите фамилию')
-//
 // const lastName = prompt('Введите фамилию')
 // alert( firstName + '' + lastName)
 
+// 3.Операторы
+
 // let correntYear = 2021
 // const birthYear = 1988
-//
 // const age = correntYear - birthYear
 //  console.log(age)
-
-// 3.операции для чисел
 
 
 // const a = 10
