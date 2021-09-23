@@ -1,14 +1,14 @@
 // 1 переменые
 
-// alert(1)
-// const firstName = 'Vladlen'
-// // const age = 33
-// const isProgrammer = true
-//
-// const _ = 'private'
-// const  $ = 'some value'
-// const withNum5 = '5'
+alert(1)
+const firstName = 'alex'
+const age = 33
+const isProgrammer = true
 
+const _ = 'private'
+const  $ = 'some value'
+const withNum5 = '5'
+console.log(firstName,!isProgrammer, age)
 //  2 . мутирование
 
 // console.log( 'имя человека: ' + firstName + ' а возраст человека: ' +age)
